@@ -1,0 +1,117 @@
+{
+  "album": {
+    "album_type": "SINGLE",
+    "total_tracks": 1,
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
+    },
+    "href": "https://api.spotify.com/v1/albums/1X6nBOWHHVwjWCcMgm2vdk",
+    "id": "1X6nBOWHHVwjWCcMgm2vdk",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273e1f3772ebd35d96a489d8741",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02e1f3772ebd35d96a489d8741",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851e1f3772ebd35d96a489d8741",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Go Back (feat. Julia Church)",
+    "release_date": "2024-05-16",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1X6nBOWHHVwjWCcMgm2vdk",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id": "7kNqXtgeIwFtelmRjWv205",
+        "name": "John Summit",
+        "type": "artist",
+        "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        "href": "https://api.spotify.com/v1/artists/0QaSiI5TLA4N7mcsdxShDO",
+        "id": "0QaSiI5TLA4N7mcsdxShDO",
+        "name": "Sub Focus",
+        "type": "artist",
+        "uri": "spotify:artist:0QaSiI5TLA4N7mcsdxShDO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dHGNdVhBxCJUyMk9dR727",
+        "id": "4dHGNdVhBxCJUyMk9dR727",
+        "name": "Julia Church",
+        "type": "artist",
+        "uri": "spotify:artist:4dHGNdVhBxCJUyMk9dR727"
+      }
+    ]
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id": "7kNqXtgeIwFtelmRjWv205",
+      "name": "John Summit",
+      "type": "artist",
+      "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+      },
+      "href": "https://api.spotify.com/v1/artists/0QaSiI5TLA4N7mcsdxShDO",
+      "id": "0QaSiI5TLA4N7mcsdxShDO",
+      "name": "Sub Focus",
+      "type": "artist",
+      "uri": "spotify:artist:0QaSiI5TLA4N7mcsdxShDO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dHGNdVhBxCJUyMk9dR727",
+      "id": "4dHGNdVhBxCJUyMk9dR727",
+      "name": "Julia Church",
+      "type": "artist",
+      "uri": "spotify:artist:4dHGNdVhBxCJUyMk9dR727"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 220538,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUG12402628"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/68R0zVUeMJ2C852Ov6d2Mh",
+  "id": "68R0zVUeMJ2C852Ov6d2Mh",
+  "name": "Go Back (feat. Julia Church)",
+  "popularity": 72,
+  "preview_url": "https://p.scdn.co/mp3-preview/8c999b2a5357aa68cefd3485f9f1de75df6b74b6?cid=cfe923b2d660439caf2b557b21f31221",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:68R0zVUeMJ2C852Ov6d2Mh",
+  "is_local": false
+}
